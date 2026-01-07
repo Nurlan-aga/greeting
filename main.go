@@ -7,3 +7,7 @@ func Greet() string {
 func Bye() string {
 	return "bye qqqqq"
 }
+
+func Add() string{
+	return "add cqqqqq"
+}
