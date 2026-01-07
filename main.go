@@ -1,13 +1,13 @@
 package greeting
 
 func Greet() string {
-	return "hello qqqqq"
+	return "hello wwww"
 }
 
 func Bye() string {
 	return "bye qqqqq"
 }
 
-func Add() string{
+func Add() string {
 	return "add cqqqqq"
 }
